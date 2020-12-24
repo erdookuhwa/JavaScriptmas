@@ -8,3 +8,4 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 2 - Deposit Profit](https://scrimba.com/scrim/cod5a4b099f05713202022869)
 
+[Day 3 - Chunky Monkey]()
