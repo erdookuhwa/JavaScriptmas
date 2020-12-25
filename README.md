@@ -26,7 +26,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 11 - Avoid Obstacles]()
 
-[Day 12 - Valid Time]()
+[Day 12 - Valid Time](https://scrimba.com/scrim/co0c343ec873af20ceb1f24c2)
 
 [Day 13 - Extract Each Kth]()
 
