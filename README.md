@@ -14,4 +14,6 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 5 - Reverse A String](https://scrimba.com/scrim/co39b4f22acf31fe4bbab1a1d)
 
-[Day 6 - ]()
+[Day 6 - Sort By Length](https://scrimba.com/scrim/coe5f4befa91706778e4d1f4b)
+
+[Day 7 - Count Vowel Consonant]()
