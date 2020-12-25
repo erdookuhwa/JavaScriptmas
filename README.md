@@ -22,7 +22,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 9 - Sum Odd Fibonacci Numbers]()
 
-[Day 10 - Adjacent Elements Product]()
+[Day 10 - Adjacent Elements Product](https://scrimba.com/scrim/cod3845888bfe1ba6ba69072f)
 
 [Day 11 - Avoid Obstacles]()
 
