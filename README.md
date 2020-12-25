@@ -44,7 +44,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 20 - Domain Type](https://scrimba.com/scrim/coa86479e8f41663fc67740ce)
 
-[Day 21 - Sum of 2]()
+[Day 21 - Sum of 2](https://scrimba.com/scrim/co7f74931949f28ff359840dd)
 
 [Day 22 - Extract Matrix Column](https://scrimba.com/scrim/cod444dea82240b537a08e8cf)
 
