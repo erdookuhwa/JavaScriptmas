@@ -38,7 +38,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 17 - Different Symbols naive]()
 
-[Day 18 - Array Previous Less]()
+[Day 18 - Array Previous Less](https://scrimba.com/scrim/coddd4d49861d09343d4885f0)
 
 [Day 19 - Alphabet Sequence]()
 
