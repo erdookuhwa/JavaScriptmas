@@ -16,4 +16,6 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 6 - Sort By Length](https://scrimba.com/scrim/coe5f4befa91706778e4d1f4b)
 
-[Day 7 - Count Vowel Consonant]()
+[Day 7 - Count Vowel Consonant](https://scrimba.com/scrim/coaa64df5967680afd4394444)
+
+[Day 8 - ]()
