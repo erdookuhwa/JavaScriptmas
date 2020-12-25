@@ -28,7 +28,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 12 - Valid Time](https://scrimba.com/scrim/co0c343ec873af20ceb1f24c2)
 
-[Day 13 - Extract Each Kth]()
+[Day 13 - Extract Each Kth](https://scrimba.com/scrim/co74941bab97b45c5c4e460ef)
 
 [Day 14 - Maximal Adjacent Difference](https://scrimba.com/scrim/coa0a489ba836b908f0a11d0f)
 
