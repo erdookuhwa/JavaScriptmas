@@ -9,3 +9,5 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 [Day 2 - Deposit Profit](https://scrimba.com/scrim/cod5a4b099f05713202022869)
 
 [Day 3 - Chunky Monkey](https://scrimba.com/scrim/co5ca43cd9738382b552032f9)
+
+[Day 4 - Century From Year](https://scrimba.com/scrim/coe664664a1684411919c9ac9)
