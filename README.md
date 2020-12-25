@@ -24,4 +24,30 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 10 - Adjacent Elements Product]()
 
-[Day 11 - ]()
+[Day 11 - Avoid Obstacles]()
+
+[Day 12 - Valid Time]()
+
+[Day 13 - Extract Each Kth]()
+
+[Day 14 - Maximal Adjacent Difference]()
+
+[Day 15 - JavaScript Carousel]()
+
+[Day 16 - Insert Dashes]()
+
+[Day 17 - Different Symbols naive]()
+
+[Day 18 - Array Previous Less]()
+
+[Day 19 - Alphabet Sequence]()
+
+[Day 20 - Domain Type]()
+
+[Day 21 - Sum of 2]()
+
+[Day 22 - Extract Matrix Column]()
+
+[Day 23 - Social Media Input]()
+
+[Day 24 - Test Your Agility]()
