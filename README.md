@@ -34,7 +34,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 15 - JavaScript Carousel]()
 
-[Day 16 - Insert Dashes]()
+[Day 16 - Insert Dashes](https://scrimba.com/scrim/co3674c6cae0b7bcab5d3a6d0)
 
 [Day 17 - Different Symbols naive]()
 
