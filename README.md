@@ -42,7 +42,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 19 - Alphabet Sequence]()
 
-[Day 20 - Domain Type]()
+[Day 20 - Domain Type](https://scrimba.com/scrim/coa86479e8f41663fc67740ce)
 
 [Day 21 - Sum of 2]()
 
