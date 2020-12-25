@@ -46,7 +46,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 21 - Sum of 2]()
 
-[Day 22 - Extract Matrix Column]()
+[Day 22 - Extract Matrix Column](https://scrimba.com/scrim/cod444dea82240b537a08e8cf)
 
 [Day 23 - Social Media Input]()
 
