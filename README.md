@@ -20,7 +20,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 8 - Rolling Dice]()
 
-[Day 9 - Sum Odd Fibonacci Numbers]()
+[Day 9 - Sum Odd Fibonacci Numbers](https://scrimba.com/scrim/co4f44ae5ae7a4815a402b5ce)
 
 [Day 10 - Adjacent Elements Product](https://scrimba.com/scrim/cod3845888bfe1ba6ba69072f)
 
