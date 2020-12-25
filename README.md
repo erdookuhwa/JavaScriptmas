@@ -30,7 +30,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 13 - Extract Each Kth]()
 
-[Day 14 - Maximal Adjacent Difference]()
+[Day 14 - Maximal Adjacent Difference](https://scrimba.com/scrim/coa0a489ba836b908f0a11d0f)
 
 [Day 15 - JavaScript Carousel]()
 
