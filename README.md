@@ -11,3 +11,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 [Day 3 - Chunky Monkey](https://scrimba.com/scrim/co5ca43cd9738382b552032f9)
 
 [Day 4 - Century From Year](https://scrimba.com/scrim/coe664664a1684411919c9ac9)
+
+[Day 5 - Reverse A String](https://scrimba.com/scrim/co39b4f22acf31fe4bbab1a1d)
+
+[Day 6 - ]()
