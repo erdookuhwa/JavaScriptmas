@@ -18,4 +18,10 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 7 - Count Vowel Consonant](https://scrimba.com/scrim/coaa64df5967680afd4394444)
 
-[Day 8 - ]()
+[Day 8 - Rolling Dice]()
+
+[Day 9 - Sum Odd Fibonacci Numbers]()
+
+[Day 10 - Adjacent Elements Product]()
+
+[Day 11 - ]()
