@@ -40,7 +40,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 18 - Array Previous Less](https://scrimba.com/scrim/coddd4d49861d09343d4885f0)
 
-[Day 19 - Alphabet Sequence]()
+[Day 19 - Alphabet Sequence](https://scrimba.com/scrim/co6654dfbb0a8103f7485ce81)
 
 [Day 20 - Domain Type](https://scrimba.com/scrim/coa86479e8f41663fc67740ce)
 
