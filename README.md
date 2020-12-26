@@ -36,7 +36,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 16 - Insert Dashes](https://scrimba.com/scrim/co3674c6cae0b7bcab5d3a6d0)
 
-[Day 17 - Different Symbols naive]()
+[Day 17 - Different Symbols naive](https://scrimba.com/scrim/coa054e66a33390e277f2139b)
 
 [Day 18 - Array Previous Less](https://scrimba.com/scrim/coddd4d49861d09343d4885f0)
 
