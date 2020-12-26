@@ -24,7 +24,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 10 - Adjacent Elements Product](https://scrimba.com/scrim/cod3845888bfe1ba6ba69072f)
 
-[Day 11 - Avoid Obstacles]()
+[Day 11 - Avoid Obstacles](https://scrimba.com/scrim/co6fb400baafa43dcb9817bbe)
 
 [Day 12 - Valid Time](https://scrimba.com/scrim/co0c343ec873af20ceb1f24c2)
 
