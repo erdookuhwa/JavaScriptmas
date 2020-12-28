@@ -50,4 +50,4 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 23 - Social Media Input]()
 
-[Day 24 - Test Your Agility]()
+[Day 24 - Test Your Agility](https://scrimba.com/scrim/co05b43709b92a61cb65c49b6)
