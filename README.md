@@ -48,6 +48,6 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 22 - Extract Matrix Column](https://scrimba.com/scrim/cod444dea82240b537a08e8cf)
 
-[Day 23 - Social Media Input]()
+[Day 23 - Social Media Input](https://scrimba.com/scrim/co65f430bb7e0d3cf20155c6b)
 
 [Day 24 - Test Your Agility](https://scrimba.com/scrim/co05b43709b92a61cb65c49b6)
