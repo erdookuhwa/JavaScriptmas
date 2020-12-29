@@ -32,7 +32,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 14 - Maximal Adjacent Difference](https://scrimba.com/scrim/coa0a489ba836b908f0a11d0f)
 
-[Day 15 - JavaScript Carousel]()
+[Day 15 - JavaScript Carousel](https://scrimba.com/scrim/co9e64174953ff13e45e34902)
 
 [Day 16 - Insert Dashes](https://scrimba.com/scrim/co3674c6cae0b7bcab5d3a6d0)
 
