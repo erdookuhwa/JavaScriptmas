@@ -18,7 +18,7 @@ Check out my solutions to the challenges. On the Scrimba page, click on the imag
 
 [Day 7 - Count Vowel Consonant](https://scrimba.com/scrim/coaa64df5967680afd4394444)
 
-[Day 8 - Rolling Dice]()
+[Day 8 - Rolling Dice](https://scrimba.com/scrim/co28b49a7abc80cea7f370bc0)
 
 [Day 9 - Sum Odd Fibonacci Numbers](https://scrimba.com/scrim/co4f44ae5ae7a4815a402b5ce)
 
